@@ -1,4 +1,7 @@
 # project-5
 Repository only for the TripleTen's Sprint 5 Project 
 
-Eu não faço ideia do que estou fazendo, mas entendo a lógica de cada bloco de código e continuo seguindo os passo a passo do projeto 5
+O projeto trabalha o aprendizado do aluno para uso das ferramentas necessárias com Python e repositórios públicos.
+Em relação ao arquivo python, foi feita 2 gráficos básicos com possiveis pontos de interesse.
+
+Link Render: https://notebooks-47fq.onrender.com
