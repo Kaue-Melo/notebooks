@@ -1,3 +1,12 @@
+"""
+Projeto: Dashboard para análise de Anúncios de Carros
+Descrição: Aplicação em Streamlit para análise exploratória de dados de veículos.
+Autor: Kauê Melo
+Data: 2025-11-25
+Versão: 1.0
+Tecnologias: Python, Streamlit, Pandas, Plotly
+"""
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
